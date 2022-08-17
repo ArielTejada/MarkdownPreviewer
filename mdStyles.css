@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+body, html, #main {
+    background-color: hsl(287, 5%, 38%);
+    justify-content: center;
+}
+
+h1 {
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: hsl(288, 30%, 23%);
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+
+#tab1 {
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: hsl(288, 30%, 23%);
+    color: white;
+    width: 40%;
+    text-align: center;
+}
+
+#tab2 {
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: hsl(288, 30%, 23%);
+    color: white;
+    width: 40%;
+    text-align: center;
+}
+
+#preview {
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 40%;
+    height: 30%;
+    background-color: rgb(144, 135, 142);
+}
+
+textarea {
+    margin: 0 auto;
+}
+
+#main textarea{
+    margin-left: 30%;
+    border: 2px solid black;
+    width: 40%;
+    height: 30%;
+    background-color: rgb(144, 135, 142);;
+}
